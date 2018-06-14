@@ -1,4 +1,12 @@
 baseURL = "https://sgoodliff.github.io/"
 languageCode = "en-us"
 title = "My Infrequent Thoughts"
-theme = "ananke"
+theme = "minimo"
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about","taxonomy_cloud"]
+footer = ["social_menu"]
