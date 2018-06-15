@@ -10,3 +10,10 @@ enable = true
 homepage = ["recent_posts"]
 sidebar = ["about","taxonomy_cloud"]
 footer = ["social_menu"]
+
+[params.social]
+email = "contact@example.com"
+github = "sgoodliff"
+linkedin = "steven-goodliff-968806122"
+twitter = "roadwarrior78"
+youtube = "UCED7j7x7HqvvWrUJUTOOYgw"
